@@ -10,6 +10,20 @@
     border-bottom: solid 2px white;
     padding: 20px;
     font-size: 32px;
-    color:black;
+    color:black;(202, 148, 31);
 
+ }
+
+ section {
+      background: white;(227, 180, 180);
+      padding-bottom: 80px;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+ }
+
+
+ .chamada-texto{
+
+   margin-right: 5%;
  }
