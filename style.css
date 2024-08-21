@@ -1,5 +1,15 @@
  body {
     color:blueviolet;
-    background:pink
+    background:pink;
+    margin:0px;
     
+ }
+ 
+
+ header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color:black;
+
  }
